@@ -1,4 +1,79 @@
+
 html, body {
     margin: 0;
     padding: 0;
+width: 550px;
+height: 550px;
+left: 0px;
+top: 0px;
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+html, h1 {  
+width: 448.4px;
+height: 38px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 38px;
+/* identical to box height, or 173% */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #FFFFFF;
+}
+
+html, h2 {
+width: 211px;
+height: 51.23px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 97.5723px;
+line-height: 24px;
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+html, p {
+width: 346px;
+height: 25px;
+left: 102px;
+top: 297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: #1A1921;
+}
+
+html, #p2,#p4,#p6 {
+    width: 346px;
+height: 25px;
+left: 102px;
+top: 327px;
+
+/* text-sm/leading-5/font-normal */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+text-align: center;
+
+color: #4E4E4E;
 }
